@@ -1,5 +1,217 @@
 {
   "schema_version": 1,
   "updated": "2026-05-07T12:00:00Z",
-  "licenses": {}
+  "licenses": {
+
+  "3fe6e74b26bcc759f8d64fbc95f7c1a9f5eb39eb5f1e8b0f3c81cb4e70c11f5f": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: ESCF-5YVG-XY2S-QVWZ-NHXV-F5R2"
+    },
+    "b1037fa85a5f9add220c4c8da2e4d7ce85f43c8e740050297e06b5c6a76280ba": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 9BYG-RCQ5-243X-RHKF-8MQ5-FBCU"
+    },
+    "4ab3b8670db4fc1a8569e91148a3c4b8f8b9a7b5d8b61755c199eaa11387a52a": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 6ASY-W2LV-PPSU-LX4W-9PKE-RFVZ"
+    },
+    "089d719f63938e792d5f6ecd9d6d0a79c660866b48f443782d1366946292e697": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 7748-26JP-7HJL-F8UT-A8TX-QLAD"
+    },
+    "86f7487adf31a23fb6dd34e3d69841f4cb3bbde03cef7973960fd55fae4ebe55": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: LX6M-YXA3-3BK4-MY3X-DEZW-TDXC"
+    },
+    "9a409cc3d9b8f3ce6f61f708e14bec514a6b4a4e4a5140952d2ccb915cb461e9": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: HG8J-2R3N-SRSV-U5GL-SV38-ASJG"
+    },
+    "4d8d88f3b5df23c2ca72182ddd47cfa183b424be439c5bc69138723c135a80d3": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: MMK2-7FTT-262H-8XNC-WHTU-V8KW"
+    },
+    "435d8264582984a61c53eb22b5bbbe6eea42768f3710c331bdddb6075df235fd": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: YQST-W5NS-5C9U-TRTX-ER2D-9KB8"
+    },
+    "d1602f673dcbe402e48c86e5b4b51ced189a8fdb6f9d8acac2bda4278352754a": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: GY7S-7GXY-NHDL-XGLR-UY75-WW8Y"
+    },
+    "26ac16de84b21d0077141e6e1a2a8d5bfd30865a81d60c8057a94ce36c759784": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: RU3Q-XLLB-G7TH-VD6D-WS2K-XEWL"
+    },
+    "6469d810b6c21d3b1738f354337e400015e49fea6093df598728d21f9ed592c8": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: S3RA-QEHQ-MKFV-NFHC-8RUC-93D3"
+    },
+    "18c7312c65f759e0eb55c2cb2b6575a89d4a9de042f3ca6c19964f9126ae3574": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: NBVB-BC4X-H6ZK-PSRG-GMMV-VKKD"
+    },
+    "650e9c2bc18ffebc9e820db9aeb2a3b5161a4a4419d4c88769d4eecc95e779c9": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: TGJX-MUXE-KN47-HN2J-CJDX-G8B5"
+    },
+    "7576598a198e8ea4cb57a651fd0abaf5d48dd49a1470c14f908d408c196e1fa2": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: GQUV-JVW2-FJQB-WK83-WCT2-KER8"
+    },
+    "faf8ae4c82e031b623bad897e30c364688149854601ca6585bb9fb3801ad228e": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 37YV-XWSN-WNED-3FRW-A69U-BNWC"
+    },
+    "45aa4bfe9e7c9f9c130a72045bc324ba402a3ceb57d1447e642214ea788db297": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: JS7Z-ULRY-NNYU-95BD-KZES-EUVA"
+    },
+    "9b2ed5fa912881de8beee9e124b5cd0c746fdbf6db83da5d337b361ab1d46eb1": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: PPKW-9BVB-RLEU-X56N-KYCZ-N6V8"
+    },
+    "07d94f956bae5c763242cfd0a4c279b8a9efde2e64438daa5969273b730c777c": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: MCBY-A48S-LCC4-4VQ9-M84Y-RDVK"
+    },
+    "7164bb9681aaabbe488b892b044c18dc3e4fcfe3485003266ea8e4c8163bbbd8": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 6WAV-SERY-TRX8-8DL8-DANJ-S6FS"
+    },
+    "42c88ba540b313c40431943083f196224ead2a14d49f3434e29f8430572a62b9": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: BPPY-5L72-FGN8-BB98-UQK5-8KBF"
+    },
+    "be89697bb7bef474c0e8c938a6850b2fa6dafe4109a9280bde4f73dbc8f6b6f7": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 9JA5-AS7M-UGM4-CAUF-JDFC-4B32"
+    },
+    "840855688b46f8dc46339da5f9253016b96bf9e559924e6d9cbdf02b48356cbd": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: Q4AU-2NLG-6E65-G9XL-RS4C-6DZD"
+    },
+    "12d643bc1b35dfbaac45e06e90803a4539866c2a325d6a70403f8811373b8144": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 62VG-HNED-WDGC-4PQQ-PMYM-XVZ2"
+    },
+    "f54a4ddcddd46e2e08f8cb36465e0e318990932811f843d45e7a7ef61eda8f7f": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 9RTS-97F8-BJY6-CMSF-LJTJ-2JKZ"
+    },
+    "06c546f45e7da29b4f691f4b23b7e1c0bcda744683c3ecca100cbc3194fd55be": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 9RM6-DY7D-NVC6-EEDN-8LFX-GPP4"
+    },
+    "e1c9d5d52984520637ea5708b6dbc5502663a7c5839118e5de503ecde96f78df": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: E5QJ-LZHA-TMHM-48NC-EBG9-BH28"
+    },
+    "4094adb81679b52ce76dd718a7b76c91f9913a983997080d7aca0fc879997021": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 8XT5-R67Y-TEYE-XVBA-K6WD-JEW8"
+    },
+    "f07c8c1191c6af3ce12d4cf8341b20ac9bd52f875fbac8ca23050d800623a23d": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 64YB-T549-AEME-PRUT-9CN9-VD9D"
+    },
+    "396756c0614878d11b00175841f18bf764fb5972859ef8107514e16099eab572": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: 3VHT-S5KA-7VKK-52YT-97PR-ZJAG"
+    },
+    "abc472d9935634862f22f5b995e5fb8dd1785f35c8efd195340f39bb700871d6": {
+      "name": "ENGINEER NAME HERE",
+      "team": "TEAM HERE",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "Issued 2026-05-07 — key: VBDF-ZTV7-42MA-JHYU-XDYX-M3EJ"
+    }    
+  }
 }
