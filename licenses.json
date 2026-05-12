@@ -6,27 +6,27 @@
   "3fe6e74b26bcc759f8d64fbc95f7c1a9f5eb39eb5f1e8b0f3c81cb4e70c11f5f": {
       "name": "GUIGA",
       "team": "AMM",
-      "expires": "2026-12-31",
+      "expires": "2026-05-13",
       "active": true,
       "notes": "Issued 2026-05-07 — key: ESCF-5YVG-XY2S-QVWZ-NHXV-F5R2"
     },
     "b1037fa85a5f9add220c4c8da2e4d7ce85f43c8e740050297e06b5c6a76280ba": {
-      "name": "ENGINEER NAME HERE",
-      "team": "TEAM HERE",
+      "name": "TIAGO",
+      "team": "AMM",
       "expires": "2026-12-31",
       "active": true,
       "notes": "Issued 2026-05-07 — key: 9BYG-RCQ5-243X-RHKF-8MQ5-FBCU"
     },
     "4ab3b8670db4fc1a8569e91148a3c4b8f8b9a7b5d8b61755c199eaa11387a52a": {
-      "name": "ENGINEER NAME HERE",
-      "team": "TEAM HERE",
-      "expires": "2026-12-31",
+      "name": "RODRIGO",
+      "team": "AMM",
+      "expires": "2026-05-18",
       "active": true,
       "notes": "Issued 2026-05-07 — key: 6ASY-W2LV-PPSU-LX4W-9PKE-RFVZ"
     },
     "089d719f63938e792d5f6ecd9d6d0a79c660866b48f443782d1366946292e697": {
-      "name": "ENGINEER NAME HERE",
-      "team": "TEAM HERE",
+      "name": "LUCAS",
+      "team": "AMM",
       "expires": "2026-12-31",
       "active": true,
       "notes": "Issued 2026-05-07 — key: 7748-26JP-7HJL-F8UT-A8TX-QLAD"
